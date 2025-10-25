@@ -38,96 +38,94 @@
 
 ---
 
-## Featured Case Studies
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Trendology.page · Ecommerce</h3>
-        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Scaled an ecommerce storefront with a streamlined checkout and vibrant, conversion-led visuals.</p>
-        <p>
-          <a href="https://trendology.page/" target="_blank">Live demo ↗</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3>IntoVah · Mobility Platform</h3>
-        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Crafted a transport booking experience with real-time availability and polished onboarding journeys.</p>
-        <p>
-          <a href="https://intovah.com/" target="_blank">Live demo ↗</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>arnob.life · Personal Brand</h3>
-        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Portfolio experience balancing motion, clarity, and performance to highlight creative work.</p>
-        <p>
-          <a href="https://arnob.life/" target="_blank">Live demo ↗</a>
-        </p>
-      </td>
-      <td>
-        <h3>JMR Trucking · Logistics</h3>
-        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Professional web presence showcasing fleet capabilities, service coverage, and lead funnels.</p>
-        <p>
-          <a href="https://jmrtrucking.vercel.app/" target="_blank">Live demo ↗</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## Project Gallery
 
 <div align="center">
+
   <table>
     <tr>
-      <td width="33%">
-        <h4>Grays.com.bd</h4>
+      <td width="50%">
+        <img src="https://img.shields.io/badge/Mobility-IntoVah-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="IntoVah" />
+        <h3>IntoVah · Mobility Platform</h3>
         <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Retail ecommerce with curated collections, trust signals, and streamlined checkout.</p>
-        <p><a href="https://grays-com-bd.vercel.app/" target="_blank">Visit ↗</a></p>
+        <p>Booking experience with real-time inventory, intuitive routing, and high-contrast visuals.</p>
+        <a href="https://intovah.com/" target="_blank">Launch project ↗</a>
       </td>
-      <td width="33%">
-        <h4>Course Logistics Platform</h4>
-        <p><em>HTML · CSS · JavaScript</em></p>
-        <p>Information hub with contact tooling and responsive layout for education services.</p>
-        <p><a href="https://courselogistics.net" target="_blank">Visit ↗</a></p>
-      </td>
-      <td width="33%">
-        <h4>AetherCore Dynamics</h4>
-        <p><em>HTML · CSS · JavaScript</em></p>
-        <p>Showcase site exploring cutting-edge motion principles and adaptive sections.</p>
-        <p><a href="https://aethercoredynamics.netlify.app/" target="_blank">Visit ↗</a></p>
+      <td width="50%">
+        <img src="https://img.shields.io/badge/Ecommerce-Trendology.page-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Trendology" />
+        <h3>Trendology.page · Ecommerce</h3>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>High-energy shop with curated drops, shoppable stories, and conversion-focused UX.</p>
+        <a href="https://trendology.page/" target="_blank">Launch project ↗</a>
       </td>
     </tr>
     <tr>
-      <td width="33%">
-        <h4>Aamar Dokan · Ecommerce</h4>
+      <td width="50%">
+        <img src="https://img.shields.io/badge/Logistics-JMR%20Trucking-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="JMR Trucking" />
+        <h3>JMR Trucking · Logistics Network</h3>
         <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>High-performing storefront with delightful product exploration and cart flow.</p>
-        <p><a href="https://aamar-dokan.vercel.app/" target="_blank">Visit ↗</a></p>
+        <p>Trust-building corporate site showcasing fleet coverage, services, and lead capture funnels.</p>
+        <a href="https://jmrtrucking.vercel.app/" target="_blank">Launch project ↗</a>
       </td>
-      <td width="33%">
-        <h4>Portfolio Experiments</h4>
-        <p><em>React · Framer Motion</em></p>
-        <p>Micro-interaction playgrounds testing scroll choreography and ambient lighting.</p>
-        <p><a href="https://arnob.life/experiments" target="_blank">Explore ↗</a></p>
-      </td>
-      <td width="33%">
-        <h4>Client Design Systems</h4>
-        <p><em>Figma · Tokens Studio</em></p>
-        <p>Reusable component kits accelerating marketing landing pages and onboarding flows.</p>
-        <p><a href="https://arnob.life" target="_blank">Overview ↗</a></p>
+      <td width="50%">
+        <img src="https://img.shields.io/badge/Portfolio-arnob.life-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="arnob.life" />
+        <h3>arnob.life · Personal Portfolio</h3>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Signature narrative site blending motion, storytelling, and polished accessibility.</p>
+        <a href="https://arnob.life/" target="_blank">Launch project ↗</a>
       </td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Retail-Grays.com.bd-111827?style=for-the-badge&logo=shopify&logoColor=white" alt="Grays" />
+        <h4>Grays.com.bd</h4>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Retail ecommerce emphasising premium inventory, trust signals, and quick checkout.</p>
+        <a href="https://grays-com-bd.vercel.app/" target="_blank">Visit ↗</a>
+      </td>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Education-Course%20Logistics-111827?style=for-the-badge&logo=html5&logoColor=white" alt="Course Logistics" />
+        <h4>Course Logistics Platform</h4>
+        <p><em>HTML · CSS · JavaScript</em></p>
+        <p>Information hub with responsive design and contact workflows for education services.</p>
+        <a href="https://courselogistics.net" target="_blank">Visit ↗</a>
+      </td>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Showcase-AetherCore-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="AetherCore" />
+        <h4>AetherCore Dynamics</h4>
+        <p><em>HTML · CSS · JavaScript</em></p>
+        <p>Visual storytelling concept mixing particle motion, layered lighting, and modular sections.</p>
+        <a href="https://aethercoredynamics.netlify.app/" target="_blank">Visit ↗</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Ecommerce-Aamar%20Dokan-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Aamar Dokan" />
+        <h4>Aamar Dokan</h4>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Product discovery and checkout experience optimised for speed and repeat customers.</p>
+        <a href="https://aamar-dokan.vercel.app/" target="_blank">Visit ↗</a>
+      </td>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Experiments-Interactive-111827?style=for-the-badge&logo=framer&logoColor=white" alt="Experiments" />
+        <h4>Portfolio Experiments</h4>
+        <p><em>React · Framer Motion</em></p>
+        <p>Micro-interaction playgrounds exploring scroll-synced sequences and ambient lighting.</p>
+        <a href="https://arnob.life/experiments" target="_blank">Explore ↗</a>
+      </td>
+      <td width="33%">
+        <img src="https://img.shields.io/badge/Systems-Design%20Ops-111827?style=for-the-badge&logo=figma&logoColor=white" alt="Design Systems" />
+        <h4>Client Design Systems</h4>
+        <p><em>Figma · Tokens Studio</em></p>
+        <p>Reusable component libraries enabling rapid iterations for sales and marketing teams.</p>
+        <a href="https://arnob.life" target="_blank">Overview ↗</a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
