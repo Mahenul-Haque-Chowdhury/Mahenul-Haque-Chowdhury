@@ -44,14 +44,24 @@
   <table>
     <tr>
       <td width="50%">
-        <h3>Aamar Dokan · Ecommerce</h3>
+        <h3>Trendology.page · Ecommerce</h3>
         <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
-        <p>Scaled an ecommerce storefront with a streamlined checkout and modern visual language.</p>
+        <p>Scaled an ecommerce storefront with a streamlined checkout and vibrant, conversion-led visuals.</p>
         <p>
-          <a href="https://aamar-dokan.vercel.app/" target="_blank">Live demo ↗</a>
+          <a href="https://trendology.page/" target="_blank">Live demo ↗</a>
         </p>
       </td>
       <td width="50%">
+        <h3>IntoVah · Mobility Platform</h3>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Crafted a transport booking experience with real-time availability and polished onboarding journeys.</p>
+        <p>
+          <a href="https://intovah.com/" target="_blank">Live demo ↗</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <h3>arnob.life · Personal Brand</h3>
         <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
         <p>Portfolio experience balancing motion, clarity, and performance to highlight creative work.</p>
@@ -59,23 +69,62 @@
           <a href="https://arnob.life/" target="_blank">Live demo ↗</a>
         </p>
       </td>
-    </tr>
-    <tr>
       <td>
-        <h3>Course Logistics Platform</h3>
-        <p><em>HTML · CSS · JavaScript</em></p>
-        <p>Informational platform built for discoverability, clear contact flows, and responsive coverage.</p>
+        <h3>JMR Trucking · Logistics</h3>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Professional web presence showcasing fleet capabilities, service coverage, and lead funnels.</p>
         <p>
-          <a href="https://courselogistics.net" target="_blank">Live demo ↗</a>
+          <a href="https://jmrtrucking.vercel.app/" target="_blank">Live demo ↗</a>
         </p>
       </td>
-      <td>
-        <h3>AetherCore Dynamics</h3>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Project Gallery
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h4>Grays.com.bd</h4>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>Retail ecommerce with curated collections, trust signals, and streamlined checkout.</p>
+        <p><a href="https://grays-com-bd.vercel.app/" target="_blank">Visit ↗</a></p>
+      </td>
+      <td width="33%">
+        <h4>Course Logistics Platform</h4>
         <p><em>HTML · CSS · JavaScript</em></p>
-        <p>Showcase site exploring cutting-edge web animation and adaptive layouts for tech services.</p>
-        <p>
-          <a href="https://aethercoredynamics.netlify.app/" target="_blank">Live demo ↗</a>
-        </p>
+        <p>Information hub with contact tooling and responsive layout for education services.</p>
+        <p><a href="https://courselogistics.net" target="_blank">Visit ↗</a></p>
+      </td>
+      <td width="33%">
+        <h4>AetherCore Dynamics</h4>
+        <p><em>HTML · CSS · JavaScript</em></p>
+        <p>Showcase site exploring cutting-edge motion principles and adaptive sections.</p>
+        <p><a href="https://aethercoredynamics.netlify.app/" target="_blank">Visit ↗</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+        <h4>Aamar Dokan · Ecommerce</h4>
+        <p><em>Next.js · Tailwind CSS · TypeScript</em></p>
+        <p>High-performing storefront with delightful product exploration and cart flow.</p>
+        <p><a href="https://aamar-dokan.vercel.app/" target="_blank">Visit ↗</a></p>
+      </td>
+      <td width="33%">
+        <h4>Portfolio Experiments</h4>
+        <p><em>React · Framer Motion</em></p>
+        <p>Micro-interaction playgrounds testing scroll choreography and ambient lighting.</p>
+        <p><a href="https://arnob.life/experiments" target="_blank">Explore ↗</a></p>
+      </td>
+      <td width="33%">
+        <h4>Client Design Systems</h4>
+        <p><em>Figma · Tokens Studio</em></p>
+        <p>Reusable component kits accelerating marketing landing pages and onboarding flows.</p>
+        <p><a href="https://arnob.life" target="_blank">Overview ↗</a></p>
       </td>
     </tr>
   </table>
@@ -103,16 +152,15 @@
 
 ## Toolbox
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma,ps,framer,vercel,netlify,prisma,postgres,aws,cloudflare,githubactions" alt="Skill icons" />
+
+</div>
+
+<p align="center">
+  <sub>Specialties: component systems, animation choreography, performance profiling, and deployment pipelines.</sub>
+</p>
 
 ---
 
@@ -124,24 +172,22 @@
 
 ---
 
-## GitHub Intelligence
+## Visual Dashboard
 
 <div align="center">
 
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenul-Haque-Chowdhury&layout=compact&theme=radical&hide_border=true" />
-  <img height="150" alt="Streak Stats" src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&theme=radical&hide_border=true" />
-
-</div>
-
-## Activity Timeline
-
-<div align="center">
+  <img width="95%" alt="Profile details summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahenul-Haque-Chowdhury&theme=radical" />
+  <img width="47%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahenul-Haque-Chowdhury&theme=radical&utcOffset=6" />
+  <img width="47%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahenul-Haque-Chowdhury&theme=radical" />
+  <img width="47%" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahenul-Haque-Chowdhury&theme=radical" />
+  <img width="47%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&theme=radical&hide_border=true" />
+  <img width="95%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&theme=nightowl&hide_border=true&area=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg" />
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg" />
   </picture>
+
 </div>
 
 ---
