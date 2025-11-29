@@ -20,7 +20,7 @@
 
   <table>
     <tr>
-      <td><strong>4+</strong><br/>Years shipping web experiences</td>
+      <td><strong>3+</strong><br/>Years shipping web experiences</td>
       <td><strong>10+</strong><br/>Client & personal projects delivered</td>
       <td><strong>1</strong><br/>Focus: delightful product design</td>
     </tr>
