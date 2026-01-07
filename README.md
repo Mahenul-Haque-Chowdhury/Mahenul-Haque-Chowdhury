@@ -76,45 +76,160 @@ Based in **Dhaka, Bangladesh**, I am the Founder of **GrayVally**, bridging the 
 
 ---
 
-## 🚀 Ventures & Projects
+## 💎 Flagship Ventures & Digital Infrastructure
 
-<table width="100%">
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">
+          <a href="https://www.grayvally.tech/">🌌 GrayVally Tech</a>
+        </h3>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Agency-Official_Site-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+            <img src="https://img.shields.io/badge/Focus-Digital_Transformation-violet?style=flat-square" />
+        </div>
+        <p align="center">
+          <strong>Software Development Agency.</strong><br/>
+          Official site for GrayVally.tech. High-performance web products specializing in speed and conversion-centric design.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        </div>
+      </td>
+
+      <td width="50%" valign="top">
+        <h3 align="center">
+          <a href="https://trendology.page/">🛍️ Trendology</a>
+        </h3>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Venture-E--Commerce-10B981?style=flat-square&logo=shopify&logoColor=white" />
+            <img src="https://img.shields.io/badge/Status-Live_Marketplace-success?style=flat-square" />
+        </div>
+        <p align="center">
+          <strong>Trend Analysis & Retail Platform.</strong><br/>
+          A modern platform featuring clean design, user‑friendly experience, and conversion-centric product browsing.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">
+          <a href="https://intovah.com">🏢 Intovah Platform</a>
+        </h3>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Client-Corporate-0EA5E9?style=flat-square" />
+            <img src="https://img.shields.io/badge/Type-Business_Solutions-blue?style=flat-square" />
+        </div>
+        <p align="center">
+          <strong>Modern Corporate Architecture.</strong><br/>
+          Delivering a clean, fast, and responsive user experience with clear service messaging and lead capture.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </div>
+      </td>
+
+      <td width="50%" valign="top">
+        <h3 align="center">
+          <a href="https://restaurant-gulshan.vercel.app/">🍽️ Restaurant Showcase</a>
+        </h3>
+        <div align="center">
+            <img src="https://img.shields.io/badge/App-Reservation_System-F97316?style=flat-square" />
+            <img src="https://img.shields.io/badge/UI-High_Fidelity-orange?style=flat-square" />
+        </div>
+        <p align="center">
+          <strong>Hospitality & Dining Experience.</strong><br/>
+          Features menu showcasing, a custom reservation system, and elegant Framer Motion interactions.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📂 Selected Projects & Client Works
+
+<div align="center">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Business Card Maker</h3>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" />
-      </div>
-      <p align="center">
-        A next-gen digital business card maker. Part of the <strong>GrayVally</strong> product suite. Focuses on drag-and-drop customization.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      </div>
+    <td width="33%" align="center" valign="top">
+      <a href="https://jmrtrucking.vercel.app/">
+        <img src="https://img.shields.io/badge/JMR-Logistics-1E293B?style=for-the-badge&logo=ubereats&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>JMR Trucking</strong>
+      <br />
+      <font size="2">US-based logistics & fleet tracking.</font>
+      <br />
+      <img src="https://img.shields.io/badge/Next.js-Node-black?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ Trendology</h3>
-      <div align="center">
-         <a href="https://trendology.page/"><img src="https://img.shields.io/badge/Live-Visit_Store-10B981?style=flat-square" /></a>
-      </div>
-      <p align="center">
-        My own e-commerce venture selling gadgets and lifestyle gear. Features shoppable stories and high-conversion UX.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
-        <img src="https://img.shields.io/badge/Analytics-orange?style=flat-square" />
-      </div>
+    <td width="33%" align="center" valign="top">
+      <a href="https://crystal-auto-detailing.vercel.app/">
+        <img src="https://img.shields.io/badge/Crystal-Auto_Detail-06B6D4?style=for-the-badge&logo=ford&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Crystal Valley</strong>
+      <br />
+      <font size="2">Premium service booking & showcase.</font>
+      <br />
+      <img src="https://img.shields.io/badge/React-Motion-blue?style=flat-square" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://exclusive-e-commerce-five.vercel.app/">
+        <img src="https://img.shields.io/badge/Exclusive-Retail-E11D48?style=for-the-badge&logo=target&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Exclusive Store</strong>
+      <br />
+      <font size="2">High-performance Redux storefront.</font>
+      <br />
+      <img src="https://img.shields.io/badge/Redux-Tailwind-red?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://zeronineholdings.netlify.app/">
+        <img src="https://img.shields.io/badge/Zero_Nine-Holdings-334155?style=for-the-badge&logo=squarespace&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Zero Nine</strong>
+      <br />
+      <font size="2">Sophisticated corporate layout.</font>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://mr-dino.vercel.app/">
+        <img src="https://img.shields.io/badge/Game-Mr._Dino-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Endless Runner</strong>
+      <br />
+      <font size="2">Chrome-inspired game in TypeScript.</font>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://grays-com-bd.vercel.app/">
+        <img src="https://img.shields.io/badge/Grays-Marketplace-4F46E5?style=for-the-badge&logo=woocomerce&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Grays Platform</strong>
+      <br />
+      <font size="2">Conversion-centric merchandising.</font>
     </td>
   </tr>
 </table>
-
-### 📂 Client Highlights
-
-| **IntoVah Mobility** | **JMR Trucking** | **Arnob.life** |
-| :---: | :---: | :---: |
-| [Visit Site](https://intovah.com/) | [Visit Site](https://jmrtrucking.vercel.app/) | [Visit Site](https://arnob.life) |
-| *Real-time booking platform* | *Corporate fleet management* | *Signature narrative portfolio* |
+</div>
 
 ---
 
