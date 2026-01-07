@@ -108,6 +108,81 @@ Menu showcasing, custom reservation system, and elegant Framer Motion interactio
 
 ---
 
+## 📂 Selected Projects & Client Works
+
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://jmrtrucking.vercel.app/">
+        <img src="https://img.shields.io/badge/JMR-Logistics-1E293B?style=for-the-badge&logo=ubereats&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>JMR Trucking</strong>
+      <br />
+      <font size="2">US-based logistics & fleet tracking.</font>
+      <br />
+      <img src="https://img.shields.io/badge/Next.js-Node-black?style=flat-square" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://crystal-auto-detailing.vercel.app/">
+        <img src="https://img.shields.io/badge/Crystal-Auto_Detail-06B6D4?style=for-the-badge&logo=ford&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Crystal Valley</strong>
+      <br />
+      <font size="2">Premium service booking & showcase.</font>
+      <br />
+      <img src="https://img.shields.io/badge/React-Motion-blue?style=flat-square" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://exclusive-e-commerce-five.vercel.app/">
+        <img src="https://img.shields.io/badge/Exclusive-Retail-E11D48?style=for-the-badge&logo=target&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Exclusive Store</strong>
+      <br />
+      <font size="2">High-performance Redux storefront.</font>
+      <br />
+      <img src="https://img.shields.io/badge/Redux-Tailwind-red?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://zeronineholdings.netlify.app/">
+        <img src="https://img.shields.io/badge/Zero_Nine-Holdings-334155?style=for-the-badge&logo=squarespace&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Zero Nine</strong>
+      <br />
+      <font size="2">Sophisticated corporate layout.</font>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://mr-dino.vercel.app/">
+        <img src="https://img.shields.io/badge/Game-Mr._Dino-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Endless Runner</strong>
+      <br />
+      <font size="2">Chrome-inspired game in TypeScript.</font>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://grays-com-bd.vercel.app/">
+        <img src="https://img.shields.io/badge/Grays-Marketplace-4F46E5?style=for-the-badge&logo=woocomerce&logoColor=white" width="100%"/>
+      </a>
+      <br />
+      <strong>Grays Platform</strong>
+      <br />
+      <font size="2">Conversion-centric merchandising.</font>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+---
+
 ## 📊 GitHub Metrics
 
 <div align="center">
