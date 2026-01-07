@@ -1,148 +1,147 @@
 <div align="center">
-  <a href="https://arnob.life" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/banner.svg" alt="Mahenul Haque Chowdhury — Founder & Engineer" width="100%" />
+  <a href="https://arnob.life" target="_blank">
+    <img src="./assets/banner.svg" width="100%" alt="Banner" />
   </a>
 
-  <h1 align="center">Mahenul Haque Chowdhury</h1>
-  <h3 align="center">Founder @ <a href="https://grayvally.tech">GrayVally</a> · Software Engineer · Front-End & UI/UX Specialist</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Digital+Infrastructure;SaaS+Ecosystem+Architect;Founder+%40+GrayVally;Front-End+%26+UI%2FUX+Specialist" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
-    <strong>Building Digital Infrastructure & SaaS Ecosystems.</strong><br />
-    I engineer full-stack solutions that blend high-performance code with conversion-driven design.
+  <p>
+    I engineer full-stack solutions that blend <strong>high-performance code</strong> with <strong>conversion-driven design</strong>.
   </p>
 
-  <p align="center">
-    <a href="https://arnob.life" target="_blank" rel="noopener noreferrer">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-arnob.life-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <p>
+    <a href="https://arnob.life">
+      <img src="https://img.shields.io/badge/Portfolio-Arnob.life-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:mahenulhaquechowdhury@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Hire_Me-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Hire_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/mahenul-haque-chowdhury" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/mahenul-haque-chowdhury">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://grayvally.tech">
+      <img src="https://img.shields.io/badge/Company-GrayVally-10B981?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GrayVally" />
     </a>
   </p>
 </div>
 
-<table align="center">
+<br />
+
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td><strong>3+</strong><br />Years shipping web experiences</td>
-    <td><strong>10+</strong><br />Client & personal projects delivered</td>
-    <td><strong>1</strong><br />Focus: delightful product design</td>
+    <td align="center" width="33%"><strong>3+ Years</strong><br/>Shipping Web Experiences</td>
+    <td align="center" width="33%"><strong>10+ Projects</strong><br/>Client & Personal Delivered</td>
+    <td align="center" width="33%"><strong>Focus</strong><br/>Scalable SaaS Architecture</td>
   </tr>
 </table>
 
----
+<br />
 
 ## ⚡ Executive Summary
 
-Based in **Dhaka, Bangladesh**, I am the Founder of **GrayVally**, where we build digital infrastructure for the modern web. My background bridges the gap between **system architecture** and **visual storytelling**.
+Based in **Dhaka, Bangladesh**, I am the Founder of **GrayVally**, bridging the gap between **system architecture** and **visual storytelling**.
 
-* **Founder Mindset:** Building a suite of SaaS products including **CardCraft Pro** and the **GrayVally Ecosystem**.
-* **Full-Stack Craft:** Expert in the React ecosystem (Next.js), Node.js, and scalable cloud architecture.
-* **Design Authority:** Creating interfaces that convert (Lighthouse scores 95+).
+* 🔭 **Founder Mindset:** Building a suite of SaaS products including **CardCraft Pro** and the **GrayVally Ecosystem**.
+* 💻 **Full-Stack Craft:** Expert in the React ecosystem (Next.js), Node.js, and scalable cloud architecture.
+* 🎨 **Design Authority:** Creating interfaces that convert (Lighthouse scores 95+).
 
 ---
 
 ## 🛠 Tech Stack & Arsenal
 
 <div align="center">
-
-| **Core Engineering** | **UI & Interaction** | **Infrastructure & Ops** |
-| :--- | :--- | :--- |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="100" alt="Core Stack" />
+        <br /><b>Core</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=tailwind,figma,framer" width="100" alt="Design" />
+        <br /><b>Design</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel" width="100" alt="Backend" />
+        <br /><b>Infra</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github" width="100" alt="Tools" />
+        <br /><b>Tools</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🚀 Selected Ventures & Projects
+## 🚀 Ventures & Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Business Card Maker by GrayVally</h3>
-      <p align="center"><em>SaaS Product (In Development)</em></p>
+      <h3 align="center">🎨 Business Card Maker</h3>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" />
+      </div>
       <p align="center">
-        A next-gen digital business card maker. Part of the <strong>GrayVally</strong> product suite. Focuses on drag-and-drop customization and instant sharing.
+        A next-gen digital business card maker. Part of the <strong>GrayVally</strong> product suite. Focuses on drag-and-drop customization.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Next.js_14_·_Supabase_·_Stripe-blue?style=flat-square" alt="Stack: Next.js 14 · Supabase · Stripe" />
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛍️ Trendology</h3>
-      <p align="center"><em>E-commerce Brand</em></p>
+      <div align="center">
+         <a href="https://trendology.page/"><img src="https://img.shields.io/badge/Live-Visit_Store-10B981?style=flat-square" /></a>
+      </div>
       <p align="center">
-        My own e-commerce venture selling gadgets and lifestyle gear. Features shoppable stories, curated drops, and a high-conversion UX.
+        My own e-commerce venture selling gadgets and lifestyle gear. Features shoppable stories and high-conversion UX.
       </p>
-      <p align="center">
-        <a href="https://trendology.page/"><strong>Visit Store ↗</strong></a>
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Analytics-orange?style=flat-square" />
+      </div>
     </td>
   </tr>
 </table>
 
-<h3 align="center">📂 Client &amp; Portfolio Highlights</h3>
+### 📂 Client Highlights
 
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://intovah.com/"><img src="https://img.shields.io/badge/Mobility-IntoVah-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="IntoVah" width="100%"/></a>
-      <br />
-      <strong>IntoVah Mobility</strong>
-      <br />
-      Real-time booking & routing platform.
-    </td>
-    <td width="33%">
-      <a href="https://jmrtrucking.vercel.app/"><img src="https://img.shields.io/badge/Logistics-JMR%20Trucking-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="JMR" width="100%"/></a>
-      <br />
-      <strong>JMR Trucking</strong>
-      <br />
-      Corporate fleet management site.
-    </td>
-    <td width="33%">
-      <a href="https://arnob.life"><img src="https://img.shields.io/badge/Portfolio-arnob.life-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Portfolio" width="100%"/></a>
-      <br />
-      <strong>Arnob.life</strong>
-      <br />
-      Signature narrative portfolio.
-    </td>
-  </tr>
-</table>
-
-</div>
+| **IntoVah Mobility** | **JMR Trucking** | **Arnob.life** |
+| :---: | :---: | :---: |
+| [Visit Site](https://intovah.com/) | [Visit Site](https://jmrtrucking.vercel.app/) | [Visit Site](https://arnob.life) |
+| *Real-time booking platform* | *Corporate fleet management* | *Signature narrative portfolio* |
 
 ---
 
-## 📊 Developer Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=020617" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahenul-Haque-Chowdhury&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=020617" height="150" alt="languages graph"  />
+</div>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenul-Haque-Chowdhury&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
+<div align="center">
   <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&theme=react&hide_border=true&area=true&bg_color=0D1117" width="98%" alt="Activity Graph" />
-
-  <br />
-
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg" width="98%" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg" width="100%" />
   </picture>
-
 </div>
 
 ---
 
 <div align="center">
-  <sub>
-    <strong>Ready to build something unique?</strong><br />
-    <a href="mailto:mahenulhaquechowdhury@gmail.com">mahenulhaquechowdhury@gmail.com</a> • <a href="https://arnob.life">arnob.life</a>
-  </sub>
+  <a href="https://arnob.life">
+    <img src="https://img.shields.io/badge/Let's_Build_Something_Great-Click_Here-3B82F6?style=for-the-badge" alt="Footer" />
+  </a>
 </div>
