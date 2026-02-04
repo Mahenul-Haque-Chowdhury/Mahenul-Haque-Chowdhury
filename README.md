@@ -23,42 +23,66 @@
 
 I'm a **full-stack engineer and founder** specializing in high-performance digital infrastructure. My focus is on building **scalable SaaS platforms**, **enterprise applications**, and **conversion-optimized web systems** that bridge the gap between engineering excellence and business impact.
 
-Currently leading **GrayVally Tech** - a digital development powerhouse crafting next-generation platforms for startups and enterprises globally.
+Currently leading **GrayVally Tech** — a digital development powerhouse crafting next-generation platforms for startups and enterprises globally.
 
 <br/>
 
 ### 🎯 Core Expertise
 
+<div align="center">
+
 <table>
 <tr>
-<td>
-
-🏛️ **Enterprise Architecture**
-> Scalable Next.js systems for mission-critical applications
-
+<td align="center">
+<img src="https://img.shields.io/badge/🏛️_Enterprise_Architecture-FF6B6B?style=for-the-badge"/>
+<br/><br/>
+<b>Scalable Next.js systems for mission-critical applications</b>
 </td>
-<td>
-
-🚀 **SaaS Development**
-> Full product lifecycle from MVP to production scale
-
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_SaaS_Development-FECA57?style=for-the-badge"/>
+<br/><br/>
+<b>Full product lifecycle from MVP to production scale</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨_UI%2FUX_Engineering-48DBFB?style=for-the-badge"/>
+<br/><br/>
+<b>Performance-first design systems with exceptional UX</b>
 </td>
 </tr>
 <tr>
-<td>
-
-🎨 **UI/UX Engineering**
-> Performance-first design systems with exceptional UX
-
+<td align="center">
+<img src="https://img.shields.io/badge/📊_CRM_Systems-FF9FF3?style=for-the-badge"/>
+<br/><br/>
+<b>Custom CRM solutions for sales & customer management</b>
 </td>
-<td>
-
-📈 **Conversion Optimization**
-> Data-driven frontend strategies for business growth
-
+<td align="center">
+<img src="https://img.shields.io/badge/👥_HRMS_Platforms-54A0FF?style=for-the-badge"/>
+<br/><br/>
+<b>HR management systems with payroll & analytics</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📈_Conversion_Optimization-1DD1A1?style=for-the-badge"/>
+<br/><br/>
+<b>Data-driven frontend strategies for business growth</b>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Expertise Tags -->
+![Frontend](https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=react&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-FECA57?style=flat-square&logo=node.js&logoColor=black)
+![Full Stack](https://img.shields.io/badge/Full_Stack-48DBFB?style=flat-square&logo=next.js&logoColor=black)
+![SaaS](https://img.shields.io/badge/SaaS-FF9FF3?style=flat-square&logo=stripe&logoColor=black)
+![CRM](https://img.shields.io/badge/CRM-54A0FF?style=flat-square&logo=salesforce&logoColor=white)
+![HRMS](https://img.shields.io/badge/HRMS-1DD1A1?style=flat-square&logo=bamboo&logoColor=white)
+![E-Commerce](https://img.shields.io/badge/E--Commerce-F97316?style=flat-square&logo=shopify&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Dev-8B5CF6?style=flat-square&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database-EC4899?style=flat-square&logo=postgresql&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
 
 <br clear="both"/>
 
