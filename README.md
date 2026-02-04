@@ -1,148 +1,168 @@
-# 🚀 Mahenul Haque Chowdhury
+<div align="center">
+  <a href="https://arnob.life" target="_blank">
+    <img src="./assets/banner.svg" width="100%" alt="Arnob Banner"/>
+  </a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Digital+Systems;Founder+%40+GrayVally;Enterprise+SaaS+Builder;Next.js+%7C+UI%2FUX+Engineering" />
+
+  <br/><br/>
+
+  <a href="https://arnob.life">
+    <img src="https://img.shields.io/badge/Portfolio-Arnob.life-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://grayvally.tech">
+    <img src="https://img.shields.io/badge/Company-GrayVally-10B981?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  </a>
+  <a href="mailto:mahenulhaquechowdhury@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahenul-haque-chowdhury">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## Executive Overview
+
+Founder of **GrayVally**, building performance-driven digital infrastructure focused on SaaS, enterprise platforms, and conversion-optimized web systems.
+
+My work sits at the intersection of engineering and product design — delivering systems that are fast, scalable, and commercially effective.
+
+Primary focus areas:
+
+• Enterprise-grade Next.js architecture  
+• SaaS ecosystem development  
+• High-performance UI/UX systems  
+• Conversion-focused frontend engineering  
+
+I collaborate with startups, agencies, and international clients to transform complex ideas into production-ready platforms.
+
+---
+
+## Core Technology Stack
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Digital+Systems;Founder+at+GrayVally+Tech;Enterprise+SaaS+Specialist;Next.js+%7C+UI%2FUX+Engineering;Product+%2B+Engineering+Nexus)
-
-<br/>
-
-**[Portfolio](https://arnob.life)** • **[Company](https://grayvally.tech)** • **[LinkedIn](https://www.linkedin.com/in/mahenul-haque-chowdhury)** • **[Email](mailto:mahenulhaquechowdhury@gmail.com)**
+| Engineering | Design Systems | Infrastructure | Workflow |
+|---|---|---|---|
+| ![](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs) | ![](https://skillicons.dev/icons?i=tailwind,figma,framer) | ![](https://skillicons.dev/icons?i=supabase,vercel,cloudflare) | ![](https://skillicons.dev/icons?i=git,github,vscode) |
 
 </div>
 
 ---
 
-## 👨‍💼 About Me
+## Digital Infrastructure & Ventures
 
-I'm a **full-stack engineer and founder** specializing in high-performance digital infrastructure. My focus is on building **scalable SaaS platforms**, **enterprise applications**, and **conversion-optimized web systems** that bridge the gap between engineering excellence and business impact.
+### GrayVally Tech  
+https://www.grayvally.tech
 
-Currently leading **GrayVally Tech** — a digital development powerhouse crafting next-generation platforms for startups and enterprises globally.
+Software development agency focused on scalable web platforms, SaaS products, and enterprise-ready frontend systems.
 
-### 🎯 Core Expertise
-- **Enterprise Architecture** — Scalable Next.js systems for mission-critical applications
-- **SaaS Development** — Full product lifecycle from MVP to production scale
-- **UI/UX Engineering** — Performance-first design systems with exceptional user experience
-- **Conversion Optimization** — Data-driven frontend strategies for business growth
+Key Focus:
+• Performance-first architecture  
+• Premium interface design  
+• Conversion-driven user journeys  
 
 ---
 
-## 🛠️ Technology Stack
+### Trendology Platform  
+https://trendology.page/
+
+Modern retail marketplace combining trend analytics with clean UX and fast navigation performance.
+
+Stack:
+Next.js • Node.js • Tailwind
+
+---
+
+### Intovah Corporate Platform  
+https://intovah.com
+
+Corporate digital infrastructure built for clarity, credibility, and lead conversion.
+
+Stack:
+Next.js • TypeScript
+
+---
+
+### Restaurant Experience System  
+https://restaurant-gulshan.vercel.app/
+
+Hospitality interface featuring animated UI, reservation flows, and elegant interaction design.
+
+Stack:
+Framer Motion • Tailwind
+
+---
+
+## Selected Client Projects
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://jmrtrucking.vercel.app/"><strong>JMR Trucking</strong></a><br/>
+US logistics platform with structured fleet interface.<br/>
+Next.js • Node
+</td>
 
-### Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<td align="center">
+<a href="https://crystal-auto-detailing.vercel.app/"><strong>Crystal Valley</strong></a><br/>
+Premium service showcase with booking flows.<br/>
+React • Motion
+</td>
 
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<td align="center">
+<a href="https://exclusive-e-commerce-five.vercel.app/"><strong>Exclusive Store</strong></a><br/>
+Conversion-focused retail architecture.<br/>
+Redux • Tailwind
+</td>
+</tr>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<tr>
+<td align="center">
+<a href="https://zeronineholdings.netlify.app/"><strong>ZeroNine Holdings</strong></a><br/>
+Corporate identity & investment platform.
+</td>
 
+<td align="center">
+<a href="https://mr-dino.vercel.app/"><strong>Mr. Dino</strong></a><br/>
+TypeScript browser game experiment.
+</td>
+
+<td align="center">
+<a href="https://grays-com-bd.vercel.app/"><strong>Grays Platform</strong></a><br/>
+Marketplace UI with conversion-driven layout.
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 🏢 Ventures & Products
-
-### **GrayVally Tech** 🌐
-**Website:** [grayvally.tech](https://www.grayvally.tech)
-
-Full-service digital development agency specializing in enterprise-grade web platforms and SaaS products.
-
-**Specializations:**
-- Performance-optimized architecture with sub-100ms load times
-- Premium interface design and brand implementation
-- Conversion-driven user experience strategy
-
----
-
-### **Trendology Platform** 📊
-**Website:** [trendology.page](https://trendology.page/)
-
-Modern retail analytics platform combining trend intelligence with intuitive UI and blazing-fast performance.
-
-**Stack:** Next.js • Node.js • Tailwind CSS • Analytics Integration
-
----
-
-### **Intovah Corporate Platform** 🏛️
-**Website:** [intovah.com](https://intovah.com)
-
-Enterprise-grade corporate digital infrastructure built for credibility, clarity, and lead generation optimization.
-
-**Stack:** Next.js • TypeScript • Tailwind CSS
-
----
-
-### **Restaurant Experience System** 🍽️
-**Website:** [restaurant-gulshan.vercel.app](https://restaurant-gulshan.vercel.app/)
-
-Sophisticated hospitality interface featuring fluid animations, reservation management, and premium interaction design.
-
-**Stack:** Framer Motion • React • Tailwind CSS
-
----
-
-## 💼 Featured Client Projects
+## GitHub Metrics
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[JMR Trucking](https://jmrtrucking.vercel.app/)** | US logistics platform with fleet management interface | Next.js • Node.js |
-| **[Crystal Valley](https://crystal-auto-detailing.vercel.app/)** | Premium auto detailing service platform with booking system | React • Framer Motion |
-| **[Exclusive Store](https://exclusive-e-commerce-five.vercel.app/)** | High-conversion e-commerce retail architecture | Redux • Tailwind CSS |
-| **[ZeroNine Holdings](https://zeronineholdings.netlify.app/)** | Corporate investment platform & brand identity | React • Styled Components |
-| **[Mr. Dino](https://mr-dino.vercel.app/)** | Interactive browser game built with TypeScript | TypeScript • Canvas API |
-| **[Grays Marketplace](https://grays-com-bd.vercel.app/)** | Conversion-optimized marketplace UI | React • Tailwind CSS |
-
-</div>
-
----
-
-## 📊 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&text_color=38bdf8&icon_color=0ea5e9" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahenul-Haque-Chowdhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&text_color=38bdf8" height="180" alt="Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahenul-Haque-Chowdhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617" height="150"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in working on challenging projects that push technical boundaries. Whether you're looking to build a SaaS platform, optimize digital infrastructure, or scale your web application — let's connect.
-
 <div align="center">
-
-**[📧 Get In Touch](mailto:mahenulhaquechowdhury@gmail.com)** • **[🔗 Visit Portfolio](https://arnob.life)** • **[💼 Connect on LinkedIn](https://www.linkedin.com/in/mahenul-haque-chowdhury)**
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/snake.svg"/>
+</picture>
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ If you find my work interesting, feel free to star this profile!
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMahenul-Haque-Chowdhury&label=Profile%20Visitors&labelColor=%23000000&countColor=%2338bdf8)
-
+<a href="https://arnob.life">
+<img src="https://img.shields.io/badge/Build+With+Me-Arnob.life-3B82F6?style=for-the-badge"/>
+</a>
 </div>
