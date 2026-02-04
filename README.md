@@ -23,7 +23,7 @@
 
 I'm a **full-stack engineer and founder** specializing in high-performance digital infrastructure. My focus is on building **scalable SaaS platforms**, **enterprise applications**, and **conversion-optimized web systems** that bridge the gap between engineering excellence and business impact.
 
-Currently leading **GrayVally Tech** — a digital development powerhouse crafting next-generation platforms for startups and enterprises globally.
+Currently leading **GrayVally Tech** - a digital development powerhouse crafting next-generation platforms for startups and enterprises globally.
 
 <br/>
 
@@ -444,7 +444,7 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 
 <div align="center">
 
-I'm always interested in working on challenging projects that push technical boundaries. Whether you're looking to build a **SaaS platform**, optimize **digital infrastructure**, or scale your **web application** — let's connect!
+I'm always interested in working on challenging projects that push technical boundaries. Whether you're looking to build a **SaaS platform**, optimize **digital infrastructure**, or scale your **web application** - let's connect!
 
 <br/>
 
