@@ -421,8 +421,8 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 <div align="center">
   
 <a href="https://github.com/Mahenul-Haque-Chowdhury">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FECA57&text_color=FFFFFF&ring_color=48DBFB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahenul-Haque-Chowdhury&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FECA57&text_color=FFFFFF&ring_color=48DBFB" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenul-Haque-Chowdhury&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages"/>
 </a>
 
 </div>
@@ -431,7 +431,7 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahenul-Haque-Chowdhury&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FECA57&fire=48DBFB&currStreakLabel=FF9FF3&sideLabels=54A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FECA57&fire=48DBFB&currStreakLabel=FF9FF3&sideLabels=54A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
@@ -448,7 +448,7 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 <!-- Profile Trophy -->
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Mahenul-Haque-Chowdhury&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mahenul-Haque-Chowdhury&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
