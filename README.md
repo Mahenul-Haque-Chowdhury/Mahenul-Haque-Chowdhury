@@ -61,9 +61,9 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 <b>HR management systems with payroll & analytics</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📈_Conversion_Optimization-1DD1A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/�_Mobile_App_Development-1DD1A1?style=for-the-badge"/>
 <br/><br/>
-<b>Data-driven frontend strategies for business growth</b>
+<b>Cross-platform mobile apps with React Native</b>
 </td>
 </tr>
 </table>
