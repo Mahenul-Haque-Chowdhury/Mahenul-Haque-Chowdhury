@@ -44,7 +44,7 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 <b>Full product lifecycle from MVP to production scale</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎨_UI%2FUX_Engineering-48DBFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_UI%2FUX_Development-48DBFB?style=for-the-badge"/>
 <br/><br/>
 <b>Performance-first design systems with exceptional UX</b>
 </td>
