@@ -419,25 +419,6 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  
-<a href="https://github.com/Mahenul-Haque-Chowdhury">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FECA57&text_color=FFFFFF&ring_color=48DBFB" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenul-Haque-Chowdhury&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FECA57&fire=48DBFB&currStreakLabel=FF9FF3&sideLabels=54A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=0D1117&color=FF6B6B&line=48DBFB&point=FECA57&area=true&hide_border=true&area_color=FF6B6B" width="100%" alt="Contribution Graph"/>
 
@@ -445,10 +426,13 @@ Currently leading **GrayVally Tech** — a digital development powerhouse crafti
 
 <br/>
 
-<!-- Profile Trophy -->
+<!-- GitHub Stats Summary -->
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Mahenul-Haque-Chowdhury&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+
+![](https://img.shields.io/badge/Total_Commits-1000+-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Repositories-50+-FECA57?style=for-the-badge&logo=github&logoColor=black)
+![](https://img.shields.io/badge/Pull_Requests-100+-48DBFB?style=for-the-badge&logo=gitpullrequest&logoColor=black)
+![](https://img.shields.io/badge/Open_Source-Contributor-FF9FF3?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
 
 </div>
 
