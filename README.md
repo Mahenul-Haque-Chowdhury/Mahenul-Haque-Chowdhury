@@ -469,7 +469,7 @@ I'm always interested in working on challenging projects that push technical bou
 
 <div align="center">
 
-### ⚡ "Building the future, one line of code at a time"
+### ⚡ "Create something today, even if it’s small, that your future self will thank you for. - Mahenul Haque Chowdhury"
 
 <br/>
 
@@ -481,7 +481,7 @@ I'm always interested in working on challenging projects that push technical bou
 
 <br/>
 
-**⭐ If you find my work interesting, feel free to star this profile!**
+**⭐ If you find my work interesting, connect with me on linkedin!**
 
 </div>
 
