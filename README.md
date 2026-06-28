@@ -96,7 +96,6 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 <!-- Powered by .github/workflows/snake.yml — run the workflow once for this to appear. -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
 
 </div>
 
