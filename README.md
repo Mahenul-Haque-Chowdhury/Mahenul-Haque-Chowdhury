@@ -12,17 +12,27 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## About
+## 👨‍💻 About
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 I'm a full-stack engineer and product designer based in Dhaka, building high-performance web applications where the engineering and the design are owned end to end. I founded **[GrayVally Software Solutions](https://www.grayvally.tech)** and lead the **Software Lab at ZTEC Group Pty Ltd** (Perth, Australia).
 
-My focus is shipping real products — SaaS platforms, commerce, and service sites — with clean architecture, fast load times, and interfaces that hold up in production. Currently building **Scan2Call** (Australia) and scaling GrayVally.
+My focus is shipping real products — SaaS platforms, commerce, and service sites — with clean architecture, fast load times, and interfaces that hold up in production.
+
+🔭 Currently building **Scan2Call** (Australia) and scaling **GrayVally**
+🎯 Strategy → interface → production engineering, in one accountable workflow
+💬 Ask me about **Next.js, design systems, and SEO-first builds**
 
 `25+ projects shipped`  ·  `5 years building`  ·  `full ownership — design to deployment`
 
-## What I Do
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## ⚡ What I Do
 
 - **Web Products** — Next.js, React, and TypeScript builds with performance, SEO, and scalable component systems
 - **Commerce** — product browsing, checkout flows, admin surfaces, and conversion-focused storefronts
@@ -31,7 +41,9 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 - **Automation** — bots, internal tools, and integrations that remove repeated manual work
 - **Growth Foundations** — technical SEO, analytics-ready pages, fast launches, and maintainable roadmaps
 
-## Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -47,7 +59,9 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 
 <sub>+ Framer Motion · DigitalOcean · Namecheap</sub>
 
-## Featured Work
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🚀 Featured Work
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
@@ -58,7 +72,9 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 
 <sub>More work (JMR Trucking, WeSell, and others) → <strong><a href="https://arnob.life/works">full archive</a></strong></sub>
 
-## GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -67,11 +83,40 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahenul-Haque-Chowdhury&hide_border=true&background=0d1117&stroke=ff6b6b&ring=feca57&fire=ff6b6b&currStreakLabel=48dbfb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Mahenul-Haque-Chowdhury&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=0d1117&color=ff6b6b&line=48dbfb&point=feca57&area=true&hide_border=true&area_color=ff6b6b" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<!-- Powered by .github/workflows/snake.yml — run the workflow once for this to appear. -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://arnob.life"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahenul-haque-chowdhury-07a3191b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Mahenul_Arnob69"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/mahenul_haque_chowdhury"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/MahenulHaqueChowdhuryArnob"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/@ArnobPlaysMusic"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:mahenulhaquechowdhury@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
