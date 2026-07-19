@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I'm a full-stack engineer and product designer based in Dhaka, building high-performance web applications where the engineering and the design are owned end to end. I founded **[GrayVally Software Solutions](https://www.grayvally.tech)** and lead the **Software Lab at ZTEC Group Pty Ltd** (Perth, Australia).
+I'm a full-stack developer and product designer based in Dhaka, building high-performance web applications where the engineering and the design are owned end to end. I founded **[GrayVally Software Solutions](https://www.grayvally.tech)** and lead the **Software Lab at ZTEC Group Pty Ltd** (Perth, Australia).
 
 My focus is shipping real products — SaaS platforms, commerce, and service sites — with clean architecture, fast load times, and interfaces that hold up in production.
 
