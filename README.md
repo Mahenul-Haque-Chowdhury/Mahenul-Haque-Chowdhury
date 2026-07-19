@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:54a0ff&height=200&section=header&text=Mahenul%20Haque%20Chowdhury&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Product%20Designer%20%C2%B7%20Founder%20of%20GrayVally&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:54a0ff&height=200&section=header&text=Mahenul%20Haque%20Chowdhury&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Designer%20%C2%B7%20Founder%20of%20GrayVally&descAlignY=58&descSize=16"/>
 
 <div align="center">
 
