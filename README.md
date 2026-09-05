@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%26+Product+Designer;Founder+%26+CEO+%40+GrayVally+Software+Solutions;Director+of+Software+Lab+%40+ZTEC+Group;Shipping+production+web+apps+with+Next.js)](https://arnob.life)
 
-<a href="https://arnob.life"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://mahenul.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.grayvally.tech"><img src="https://img.shields.io/badge/GrayVally-FECA57?style=for-the-badge&logo=rocket&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/mahenul-haque-chowdhury-07a3191b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/Mahenul_Arnob69"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -70,7 +70,7 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 | **GrayVally** | Agency site for my software studio — built around trust, technical capability, and clear conversion paths | Next.js · TypeScript · Tailwind · Framer Motion | [grayvally.tech](https://www.grayvally.tech/) |
 | **Crystal Valley Auto Detail** | Service showcase and booking-focused site for a premium auto-detailing business | React · Tailwind · Framer Motion | [crystalvalley.autos](https://www.crystalvalley.autos/) |
 
-<sub>More work (JMR Trucking, WeSell, and others) → <strong><a href="https://arnob.life/works">full archive</a></strong></sub>
+<sub>More work (JMR Trucking, WeSell, and others) → <strong><a href="https://mahenul.com/works">full archive</a></strong></sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -105,7 +105,7 @@ My focus is shipping real products — SaaS platforms, commerce, and service sit
 
 <div align="center">
 
-<a href="https://arnob.life"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://mahenul.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mahenul-haque-chowdhury-07a3191b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/Mahenul_Arnob69"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/mahenul_haque_chowdhury"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
