@@ -222,9 +222,6 @@ Bengali daily news portal built to **publish continuously without a developer in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahenul-Haque-Chowdhury&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6b6b&icon_color=48dbfb&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenul-Haque-Chowdhury&layout=compact&hide_border=true&langs_count=8&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" />
-
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&hide_border=true&background=0d1117&stroke=ff6b6b&ring=feca57&fire=ff6b6b&currStreakLabel=48dbfb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
