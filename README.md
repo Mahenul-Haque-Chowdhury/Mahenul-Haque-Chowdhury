@@ -32,7 +32,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
 ```ts
-const arnob = {
+const MAENUL HAQUE CHOWDHURY = {
   role:      "Founder & Full-Stack Engineer",
   company:   ["GrayVally Software Solutions", "ZTEC Group Pty Ltd"],
   location:  "Dhaka, Bangladesh 🇧🇩",
