@@ -32,8 +32,8 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
 ```ts
-const MAENUL HAQUE CHOWDHURY = {
-  role:      "Founder & CEO", "Director of ZTEC Software Lab",
+const mahenul = {
+  role:      ["Founder & CEO", "Director, ZTEC Software Lab"],
   company:   ["GrayVally Software Solutions", "ZTEC Group Pty Ltd"],
   location:  "Dhaka, Bangladesh 🇧🇩",
   serving:   ["🇦🇺 Australia", "🇬🇧 UK", "🇺🇸 USA", "🇧🇩 Bangladesh"],
@@ -217,34 +217,49 @@ Bengali daily news portal built to **publish continuously without a developer in
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp; The Numbers
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp; By The Numbers
 </h2>
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>25+</h1>
+<b>Products shipped</b><br/>
+<sub>Live, in production, paying for themselves</sub>
+</td>
+<td align="center" width="25%">
+<h1>4</h1>
+<b>Countries served</b><br/>
+<sub>🇦🇺 &nbsp;🇬🇧 &nbsp;🇺🇸 &nbsp;🇧🇩</sub>
+</td>
+<td align="center" width="25%">
+<h1>5</h1>
+<b>Years building</b><br/>
+<sub>First commit April 2021</sub>
+</td>
+<td align="center" width="25%">
+<h1>1.6k+</h1>
+<b>Commits authored</b><br/>
+<sub>Public and private repositories combined</sub>
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&hide_border=true&background=0d1117&stroke=ff6b6b&ring=feca57&fire=ff6b6b&currStreakLabel=48dbfb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMahenul-Haque-Chowdhury&query=%24.public_repos&label=Public%20repos&color=ff6b6b&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/Mahenul-Haque-Chowdhury?label=Followers&color=feca57&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/Mahenul-Haque-Chowdhury?affiliations=OWNER&label=Stars&color=48dbfb&style=for-the-badge&logo=github)
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=Mahenul-Haque-Chowdhury&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=feca57&fire=ff6b6b&currStreakLabel=48dbfb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Mahenul-Haque-Chowdhury&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&margin-h=6" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenul-Haque-Chowdhury&bg_color=0d1117&color=ff6b6b&line=48dbfb&point=feca57&area=true&hide_border=true&area_color=ff6b6b" />
-
-</div>
-
-<h3 align="center">🐍 &nbsp; Watch the snake eat my commits</h3>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mahenul-Haque-Chowdhury/Mahenul-Haque-Chowdhury/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<sub>Most of my work is client production code in private repositories,<br/>so the public contribution graph shows a fraction of the real output.</sub>
 
 </div>
 
