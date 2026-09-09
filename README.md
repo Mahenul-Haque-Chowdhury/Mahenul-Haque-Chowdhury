@@ -33,7 +33,7 @@
 
 ```ts
 const MAENUL HAQUE CHOWDHURY = {
-  role:      "Founder & Full-Stack Engineer",
+  role:      "Founder & CEO", "Director of ZTEC Software Lab",
   company:   ["GrayVally Software Solutions", "ZTEC Group Pty Ltd"],
   location:  "Dhaka, Bangladesh 🇧🇩",
   serving:   ["🇦🇺 Australia", "🇬🇧 UK", "🇺🇸 USA", "🇧🇩 Bangladesh"],
@@ -43,7 +43,7 @@ const MAENUL HAQUE CHOWDHURY = {
     infra:    ["Docker", "DigitalOcean", "Vercel", "Cloudflare"],
     motion:   ["GSAP", "Framer Motion", "React Three Fiber"],
   },
-  shipping:  ["Scan2Call 🇦🇺🇧🇩", "HormoFlow 🇬🇧", "GrayVally SME 🇧🇩"],
+  shipping:  ["Scan2Call 🇦🇺🇧🇩", "HormoFlow 🇬🇧", "GrayVally 🇧🇩"],
   philosophy: "Ship it, measure it, then make it beautiful.",
 };
 ```
